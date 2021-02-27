@@ -5,6 +5,16 @@ body {
     letter-spacing: 1px;
 }
 
+ul li
+{
+	padding-bottom: 20px;
+}
+
+.i_mahesh_manoharan{
+	padding-bottom: 30px;
+}
+
+
 .overlay {
 	width: 100%;
 	height: 100%;
